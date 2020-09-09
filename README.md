@@ -1,10 +1,10 @@
 <div align = "center">
 
 # Introduction to Data Science
-___
+
 
 ## Coronavirus data of Peru and South Africa from June 2020 to August 2020
-___
+
 
 ### Members
 Jerome Francis Cadorna<br>

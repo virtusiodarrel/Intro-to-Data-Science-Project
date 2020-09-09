@@ -24,17 +24,17 @@ ___
   
 ### COVID-19 Global Dataset
 
-[https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases] (Main website for the COVID-19 Global Dataset) 
+[Main website for the COVID-19 Global Dataset](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases) 
 <br>
 
 Direct download links: <br>
-[https://bit.ly/3h8SVc9] (Global Dataset for confirmed COVID-19 Cases) 
+[Global Dataset for confirmed COVID-19 Cases](https://bit.ly/3h8SVc9)
 <br>
 
-[https://bit.ly/2R7woBN] (Global Dataset for confirmed COVID-19 Deaths) 
+[Global Dataset for confirmed COVID-19 Deaths](https://bit.ly/2R7woBN)
 <br>
 
-[https://bit.ly/2FeKUFB] (Global Dataset for confirmed COVID-19 Recoveries)
+[Global Dataset for confirmed COVID-19 Recoveries](https://bit.ly/2FeKUFB)
 <br>
 
 ___
